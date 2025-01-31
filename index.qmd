@@ -1,5 +1,5 @@
 ---
-title: "J. Hathaway"
+title: "Gyubin (Levi) Lee"
 format:
   html:
     toc: true
@@ -19,10 +19,10 @@ format-links: [pdf]
 ```{python}
 #| tags: [parameters]
 
-email = 'j@jhathaway.io'
-github = 'hathawayj'
-linkedin =  'hathawayj'
-telephone = '208.932.8306'
+email = "dlrbqls5126@gmail.com"
+github = "levilee"
+linkedin = "levi-gyubin-lee-368269211"
+telephone = "385.267.9341"
 ```
 
 ```{python}
@@ -31,76 +31,85 @@ from IPython.display import Markdown
 ```
 
 ____
-
 :::: {.columns}
 
-::: {.column width="22%"}
-I want to email here is my `{python} Markdown(f'[{email}](mailto:{email})')`
-:::
+::: {.column width="22%"} 📧 {python} Markdown(f'[{email}](mailto:{email})') :::
 
-::: {.column width="1%"}
-:::
+::: {.column width="1%"} :::
 
-::: {.column width="22%"}
-`{python} Markdown(f'[github.com/{github}](https://github.com/{github})')`
-:::
+::: {.column width="22%"} 🔗 {python} Markdown(f'[github.com/{github}](https://github.com/{github})') :::
 
-::: {.column width="1%"}
-:::
+::: {.column width="1%"} :::
 
-::: {.column width="22%"}
-`{python} Markdown(f'[linkedin.com/in/{linkedin}](https://www.linkedin.com/in/{linkedin}/)')`
-:::
+::: {.column width="22%"} 🔗 {python} Markdown(f'[linkedin.com/in/{linkedin}](https://www.linkedin.com/in/{linkedin}/)') :::
 
-::: {.column width="1%"}
-:::
+::: {.column width="1%"} :::
 
+::: {.column width="22%"} 📞 {python} Markdown(f'[{telephone}](tel:{telephone})') ::: ::::
 
-::: {.column width="22%"}
-`{python} Markdown(f'[{telephone}](tel:{telephone})')`
-:::
+::: {.print-only .contact-block} dlrbqls5126@gmail.com :::
 
+EDUCATION
+B.S. in Data Science <br> Brigham Young University-Idaho [January 2021 - Present]{.cvdate}
+GPA: 3.8 / 4.0
 
-::::
+Relevant Courses:
 
-____
+Data Science Programming
+Data Intuition and Insight
+Database Design and Development
+Apply Calculus for Data Analysis
+Business Statistics
+WORK EXPERIENCE{style="page-break-before: always"}
+Data Engineer Intern
+Brevium - American Fork, Utah [May 2024 - September 2024, January 2025 - Present]{.cvdate}
 
+Utilized advanced T-SQL and SSMS servers to manage and analyze patient data for practice networks.
+Developed and managed stored procedures to meet client-specific needs.
+Diagnosed and resolved server integration issues, improving data integrity and uptime for healthcare providers.
+Data Analyst
+BYU-Idaho - Rexburg, ID [September 2021 - Present]{.cvdate}
 
+Streamlined online learning for students in low-connectivity regions using PowerBI, Excel, and SQL.
+Boosted internet connectivity by 30% and improved educational accessibility.
+Optimized online content delivery, reducing load times from 5s to 3s.
+Data Manager
+Se-ji Farms - Naju-si, South Korea [June 2020 - December 2020]{.cvdate}
 
-::: {.print-only .contact-block}
-cynthia.huang@monash.edu
-:::
+Implemented data-driven strategies to increase plant growth by 45% using advanced statistical methods.
+Prepared reports and presentations to communicate findings to management.
+Influenced a 15% improvement in operational efficiency through data-driven recommendations.
+VOLUNTEER EXPERIENCE
+Full-time Volunteer Representative
+The Church of Jesus Christ of Latter-day Saints - Busan, South Korea [June 2018 - June 2020]{.cvdate}
 
+Back-end Lead Engineer
+Find My Professor [September 2023 - November 2023]{.cvdate}
 
-## EDUCATION
-
-**Doctor of Philosophy -- Econometrics and Business Statistics** <br> *Monash University* [*Aug 2021 --- Present*]{.cvdate}
-
--   New principles and methods for complex data preparation and integration, with applications to official statistics, web-scrapped data and satellite raster images
--   Monash Data Futures Institute PhD Top-Up Scholarship (2021-2024)
--   Expected submission date: Nov 2024
-
-## WORK EXPERIENCE{style="page-break-before: always"}
-
-### Data Scientist
-
-***Freelance, Multiple Clients*** [Jan 2020 -- June 2021]{.cvdate}
-
-Providing data collection, pre-processing, exploratory analysis and modelling services to clients in the early R&D stages of developing data driven products. Projects include:
-
--   Data description and preliminary product feasibility insights for a start-up real estate bond platform; including assessing suitability of various property transaction databases for use in initial product prototype.
--   Development of statistical anomaly detection regimes and key historical insights from internet quality time-series data for use in parametric insurance products, including documenting analysis tools in an R package.
-
+Developed the 'Find My Professor' website using MongoDB and Node.js.
+Designed and implemented a robust API using Node.js for scheduling and feedback integration.
 ::: {.no-print}
-## PRESENTATIONS AND WORKSHOPS
 
--   Talk: [Misadventures with Reproducibility in R](https://github.com/cynthiahqy/rladies-2022-11) (30 Nov 2022, R Ladies Melbourne Meetup)
--   Talk: [Designing R Packages](https://github.com/cynthiahqy/design-r-magic_2022-10) (4 Oct 2022, Monash EBS Data Science Research Software Study Group)
--   Talk: [Quarto Websites as Research Compendiums](https://github.com/cynthiahqy/quarto-wiki-template) (16 Aug 2022, Monash EBS Data Science Research Software Study Group)
--   Workshop: [Writing academic papers with Rmarkdown and friends](https://www.cynthiahqy.com/posts/r-markdown-and-friends/) (9 Aug 2022, Monash University)
-:::
-
+PRESENTATIONS AND WORKSHOPS
+Talk: Misadventures with Reproducibility in R (30 Nov 2022, R Ladies Melbourne Meetup)
+Talk: Designing R Packages (4 Oct 2022, Monash EBS Data Science Research Software Study Group)
+Talk: Quarto Websites as Research Compendiums (16 Aug 2022, Monash EBS Data Science Research Software Study Group)
+Workshop: Writing academic papers with Rmarkdown and friends (9 Aug 2022, Monash University) :::
 ::: {.print-only}
-## References
-Available upon request
-:::
+
+References
+Available upon request :::
+
+Skills
+MySQL/T-SQL/SSMS
+Power BI
+Oracle
+PostgreSQL
+Python
+R & R Studio
+AWS
+NoSQL (MongoDB)
+Time Management
+Decision Making
+Collaboration
+Responsibility
